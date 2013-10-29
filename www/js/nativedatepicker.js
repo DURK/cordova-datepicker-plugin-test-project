@@ -1,7 +1,3 @@
-//{  "id": 99,  "version": 1, "issnippet": false,"information": "Contains handling of elements of the 'nativedatepicker'-class" }
-//@ sourceURL=nativedatepicker.js
-//# sourceURL=nativedatepicker.js
-
 DATE_SEPARATOR = '-';
 TIME_SEPARATOR = ':';
 LOCALIZED_MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
